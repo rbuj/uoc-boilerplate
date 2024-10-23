@@ -43,5 +43,10 @@
     "posthtml-include": "^1.7.4",
     "rimraf": "^5.0.1",
     "sharp": "^0.31.3"
+  },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "^2.4.2-alpha.0",
+    "@swc/core-linux-x64-gnu": "^1.7.39",
+    "lightningcss-linux-x64-gnu": "^1.27.0"
   }
 }
